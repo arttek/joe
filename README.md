@@ -1,3 +1,3 @@
 # my name is joe
-# arttek is for html, markdown down, jqury, python practce
+# arttek is my pracice for html, markdown down, jquery, python
 # i am new but growing
